@@ -1,0 +1,23 @@
+☐ user will select an amount,
+☐ then proceed for payment-> he gets different option for payment
+☐ pay now
+☐ pin
+☐ this transaction will be saved in database
+razorpay_order_id
+: 
+"order_M1NSt7QVZwYynN"
+razorpay_payment_id
+: 
+"pay_M1NU1zlFNRSNDh"
+razorpay_signature
+: 
+"2c7e536c113c8599e51cbce564bff348459b31b8d2fd47160ca127fa10907952"
+[[Prototype]]
+: 
+Object
+
+
+
+
+key_id,key_secret
+rzp_test_zzQAKJeQte4phG,N6MwCmAw250CI0xAC9tHsvFB
